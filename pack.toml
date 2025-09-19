@@ -1,5 +1,5 @@
 name = "BitsAndBots Pack"
-author = "YourName"
+author = "VeryNotJared"
 version = "1.0.0"
 
 minecraftVersion = "1.20.1"
@@ -13,4 +13,5 @@ A custom Forge modpack for BitsAndBots with mods for adventure, building, explor
 # Where your files will be served from (once you host them)
 # For now you can leave this blank or use a local path if testing
 # url = "https://raw.githubusercontent.com/VeryNotJared/BitsAndBotsModpack/refs/heads/main/pack.toml"
+
 
