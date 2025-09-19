@@ -1,2 +1,1 @@
-# index.toml
-# this file will list all mods & files once you have them
+hash-format = "sha256"
